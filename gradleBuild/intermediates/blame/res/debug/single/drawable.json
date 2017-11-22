@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/Users/sarim/.android/build-cache/e3dfdec4fede5a0eb3d233673e0e426974089e70/output/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/Users/sarim/.android/build-cache/e3dfdec4fede5a0eb3d233673e0e426974089e70/output/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/Users/sarim/.android/build-cache/e3dfdec4fede5a0eb3d233673e0e426974089e70/output/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/sarim/.android/build-cache/e3dfdec4fede5a0eb3d233673e0e426974089e70/output/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/Users/sarim/.android/build-cache/e3dfdec4fede5a0eb3d233673e0e426974089e70/output/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/sarim/.android/build-cache/e3dfdec4fede5a0eb3d233673e0e426974089e70/output/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/Users/sarim/.android/build-cache/e3dfdec4fede5a0eb3d233673e0e426974089e70/output/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/drawable/border.xml",
+        "source": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/res/drawable/border.xml"
+    },
+    {
+        "merged": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "/Users/sarim/.android/build-cache/e3dfdec4fede5a0eb3d233673e0e426974089e70/output/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/drawable/ic_face_black_24dp.xml",
+        "source": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/res/drawable/ic_face_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/Users/sarim/.android/build-cache/e3dfdec4fede5a0eb3d233673e0e426974089e70/output/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/sarim/.android/build-cache/e3dfdec4fede5a0eb3d233673e0e426974089e70/output/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/sarim/.android/build-cache/e3dfdec4fede5a0eb3d233673e0e426974089e70/output/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/sarim/.android/build-cache/e3dfdec4fede5a0eb3d233673e0e426974089e70/output/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/drawable/ic_camera_black_24dp.xml",
+        "source": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/res/drawable/ic_camera_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/sarim/.android/build-cache/e3dfdec4fede5a0eb3d233673e0e426974089e70/output/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/sarim/.android/build-cache/e3dfdec4fede5a0eb3d233673e0e426974089e70/output/res/drawable/common_google_signin_btn_text_light.xml"
+    }
+]

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description_info">Info</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Welcome to Cicerone!</string>
+    <string name="slide_1_desc">There is a lot to talk about. Let\'s begin.</string>
+
+    <string name="slide_2_title">Helping the Visually Impaired</string>
+    <string name="slide_2_desc">Cicerone helps to identify what the user is seeing at a given moment using Machine Learning Technology</string>
+
+    <string name="slide_3_title">TensorFlow Technology</string>
+    <string name="slide_3_desc">We are using TensorFlow\'s highly accurate classifier to determine the objects in your path.</string>
+
+    <string name="slide_4_title">Try It!</string>
+    <string name="slide_4_desc">Begin by tapping next and aiming for phone at your surrounding. Walk around and see what happens!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+
+</resources>

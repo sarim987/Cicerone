@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "/Users/sarim/.android/build-cache/e3dfdec4fede5a0eb3d233673e0e426974089e70/output/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/drawable-xhdpi-v4/googleg_standard_color_18.png",
+        "source": "/Users/sarim/.android/build-cache/e3dfdec4fede5a0eb3d233673e0e426974089e70/output/res/drawable-xhdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "/Users/sarim/.android/build-cache/e3dfdec4fede5a0eb3d233673e0e426974089e70/output/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "/Users/sarim/.android/build-cache/e3dfdec4fede5a0eb3d233673e0e426974089e70/output/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/drawable-xhdpi-v4/googleg_disabled_color_18.png",
+        "source": "/Users/sarim/.android/build-cache/e3dfdec4fede5a0eb3d233673e0e426974089e70/output/res/drawable-xhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "/Users/sarim/.android/build-cache/e3dfdec4fede5a0eb3d233673e0e426974089e70/output/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/drawable-xhdpi-v4/common_full_open_on_phone.png",
+        "source": "/Users/sarim/.android/build-cache/e3dfdec4fede5a0eb3d233673e0e426974089e70/output/res/drawable-xhdpi-v4/common_full_open_on_phone.png"
+    }
+]

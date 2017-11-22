@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/drawable-mdpi/logo.png",
+        "source": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/res/drawable-mdpi/logo.png"
+    },
+    {
+        "merged": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/drawable-mdpi/ic_action_info.png",
+        "source": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/res/drawable-mdpi/ic_action_info.png"
+    }
+]

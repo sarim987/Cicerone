@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "855163088836",
+    "firebase_url": "https://cicerone-e0b30.firebaseio.com",
+    "project_id": "cicerone-e0b30",
+    "storage_bucket": "cicerone-e0b30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855163088836:android:b01db18433589acd",
+        "android_client_info": {
+          "package_name": "org.tensorflow.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855163088836-mv1naheam3tf8mcmj69e6vl38u5oac6b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.tensorflow.demo",
+            "certificate_hash": "88f7c6fdb86798f24823d8153d4ade638e19736b"
+          }
+        },
+        {
+          "client_id": "855163088836-tnlb4fohppqgta3vqro2j55fr9l7u9j2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4VoiVd_ix3K-aNN3g4ilZdmTV7tKAPXg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855163088836-tnlb4fohppqgta3vqro2j55fr9l7u9j2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

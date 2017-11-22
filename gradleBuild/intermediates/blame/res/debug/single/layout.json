@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/layout/activity_welcome.xml",
+        "source": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/res/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/layout/welcome_slide3.xml",
+        "source": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/res/layout/welcome_slide3.xml"
+    },
+    {
+        "merged": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/layout/camera_connection_fragment_tracking.xml",
+        "source": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/res/layout/camera_connection_fragment_tracking.xml"
+    },
+    {
+        "merged": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/layout/list_text_item.xml",
+        "source": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/res/layout/list_text_item.xml"
+    },
+    {
+        "merged": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/layout/activity_speech.xml",
+        "source": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/res/layout/activity_speech.xml"
+    },
+    {
+        "merged": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/layout/activity_settings.xml",
+        "source": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/res/layout/activity_settings.xml"
+    },
+    {
+        "merged": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/layout/camera_connection_fragment_stylize.xml",
+        "source": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/res/layout/camera_connection_fragment_stylize.xml"
+    },
+    {
+        "merged": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/layout/welcome_slide2.xml",
+        "source": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/res/layout/welcome_slide2.xml"
+    },
+    {
+        "merged": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/layout/welcome_slide1.xml",
+        "source": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/res/layout/welcome_slide1.xml"
+    },
+    {
+        "merged": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/layout/activity_camera.xml",
+        "source": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/res/layout/activity_camera.xml"
+    },
+    {
+        "merged": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/layout/welcome_slide4.xml",
+        "source": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/res/layout/welcome_slide4.xml"
+    },
+    {
+        "merged": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/layout/camera_connection_fragment.xml",
+        "source": "/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/res/layout/camera_connection_fragment.xml"
+    }
+]

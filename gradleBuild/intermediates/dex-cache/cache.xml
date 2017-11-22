@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/sarim/.android/build-cache/55059a0451edfdb356c1a50ed01bfdd2106cfce0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/pre-dexed/debug/classes_ddb4b65a815735702f3bace64cc23dfadf48a748.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarim/.android/build-cache/fe540037c1cd34263b25fa4f0c2598b1373005dc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/pre-dexed/debug/classes_315d37e981be22fa1b1e78a98c08ba3a3fea6ab8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarim/.android/build-cache/e9a507c97264e8a139c7b657b78f4909727affef/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/pre-dexed/debug/classes_e824423bc4a3d3f02326a72f5bace5aeed80275e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarim/.android/build-cache/ba82a869b2d1bd60ce69e09e58d9b0159342612f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/pre-dexed/debug/classes_656b41b72974b5c212ae8e1ba8b45f1358d4343f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarim/.android/build-cache/19873b6cb67901766f521a5d0a039bf57d27b89b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/pre-dexed/debug/classes_80a1d7e65db61f23e2eca6e4925711f1b4d7885a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarim/.android/build-cache/e3dfdec4fede5a0eb3d233673e0e426974089e70/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/pre-dexed/debug/classes_44dee2fe49a0135f231f414a54b0313059615139.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarim/.android/build-cache/90c5651f587dee19743669ce5aa0b5eb08d53100/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/pre-dexed/debug/classes_a4f2d66da4b3268776928b8a64ff5f19f000bc1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarim/.android/build-cache/6bb0ee2d52af5c6e0bd0b7f51df845e71b0a6f59/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/pre-dexed/debug/classes_dff95e32934df8ae794d5e0cf48ab8cb02391f46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarim/.android/build-cache/4018c27adf8d85ed0eab51d2f0888a1e6b44c684/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/pre-dexed/debug/classes_cbf0772d29c6ea1235ce05ec7ebffc5d1def41b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarim/.android/build-cache/d32ee4b5a223a7fba592f35206070f2319a5a6bf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/pre-dexed/debug/classes_b39876166d05af2f068bafb71abc86a834065d27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarim/.android/build-cache/618b80d20dfc5b29f6f940c7f895483edc7dcaf7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/pre-dexed/debug/classes_e37a34e70231e156dcc67b7f96381286b351a0a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarim/.android/build-cache/79fa41168069b7085426ff27bb2eaa640fcb32d0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/pre-dexed/debug/classes_9c2a51d9bd4f03c4bf6b311b181fafc81ca362d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarim/.android/build-cache/c42d8dd66ac8f2a81268998f6cd43d08bce8fff2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/pre-dexed/debug/classes_18a299c0d7191422d352e75cfef3541ba7734842.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarim/.android/build-cache/e0f88c18bec6357d7d0e930c6f45c005025cb9b5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/pre-dexed/debug/classes_8637a27c950aa19ba3f0d014d6c2293e86ed9e9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarim/.android/build-cache/c9d3612f94762e0dd883c27da8eff5407b30c97e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/pre-dexed/debug/classes_b2fb9149ac00a6d2ba271c534261154f7ee4121b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarim/.android/build-cache/7ea5bc8be1bfd780c90c1bb33bce813e187ed37b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/pre-dexed/debug/classes_903dc39048fc3d3db0cce62bc80a09769cda5502.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarim/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/pre-dexed/debug/support-annotations-25.2.0_ec60d5f8238eba6478e75ca9548e542c83daf5b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarim/.android/build-cache/6f3878aadf0358f267ce06278836c39dd50a8736/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/pre-dexed/debug/classes_0d1189d3919f41d79e8e17f7c658592473aa9564.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarim/.android/build-cache/ebf29269359c5049d188eb8b5fc58ce20f08828b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/sarim/Documents/TensorFlowDemo/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/pre-dexed/debug/classes_3488032422edd1660927ae2abb7a5d5a07b3529a.jar" />
+    </item>
+
+</items>
